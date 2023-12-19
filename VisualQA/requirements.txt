@@ -1,0 +1,8 @@
+transformers
+torch
+requests
+pillow
+fastapi
+uvicorn
+streamlit
+python-multipart
